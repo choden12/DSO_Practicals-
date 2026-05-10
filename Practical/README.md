@@ -10,7 +10,6 @@
 ### Limitations of Containerization 
 - Shared Kernel: All containers use the same host’s kernel. This implies that a bug in the kernel can have repercussions on all containers. For strict isolation, virtual machines are still preferred.
 - Operating System Constraint: Linux-based containers need a Linux kernel. This implies that in Windows and Mac, Docker runs its own Linux VM under the hood. Windows containers exist but are rare.
-- Stateful Applications: Dealing with stateful applications and their persistence can be challenging for containers. Stateless applications are easier to handle.
 
 ## Containerization vs. Virtualization (key differences)
 

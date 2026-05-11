@@ -3,7 +3,7 @@
 ## What is Containerization?
 - At first, when I heard the concept of containerization during class, I did not understand it. According to the slides, containerization refers to "the packaging of applications with all dependencies into one isolated package.
 
-- Containerization is basically all elements needed for the execution of an application  code, system tools, libraries, are included into the container along with the application itself. This software is guaranteed to work on any computer supporting containerization, no matter which software is installed there. Containers don’t influence one another.
+- Containerization is basically all elements needed for the execution of an application  code, system tools, libraries, are included into the container along with the application itself. 
 
 - Through my research, I also learned that containerization is not a new idea. Linux has had container-like features for many years, including chroot, namespaces, and cgroups. What Docker did was package these existing Linux features into a user-friendly tool that made containers accessible to everyone. Docker did not invent containers, but it popularized them.
 

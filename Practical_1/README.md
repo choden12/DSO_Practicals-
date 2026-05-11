@@ -24,4 +24,4 @@ The objective of this practicals session was to successfully install Docker in m
 - Docker Desktop GUI
 
 **Step 6:** Launching Docker Desktop
-- 
+![docker](images/docker.png)
